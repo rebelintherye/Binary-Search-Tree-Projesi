@@ -56,7 +56,7 @@ Root burada 7'dir. Bu durumda 7 ile başlayacağız.
      / \
     5   8
    / \
-  1  6
+  1   6
    \
     3  
 ```
